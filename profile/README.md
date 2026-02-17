@@ -1,4 +1,4 @@
 # BlockLoads SAS
 
 [Here is our company description.
-](https://blockloads.com/password)
+](https://blockloads.com)
